@@ -13,7 +13,7 @@ Performed aggregation in order to find the total number of games in the period o
 
 1. Distributions were made of the age, the weight and the division of the fighters.
 2. Presented a line chart where the evolution of the sport is shown. Specifically aggregation was performed for the total matches per year.
-3. Top fighters were chosen based on their popularity and analysis was performed on their stats:\
+3. Top fighters were chosen based on their popularity and analysis was performed on their stats:
     * wins by KO/TKO
     * wins by submission
     * wins by unanimous decision
