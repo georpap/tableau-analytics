@@ -1,4 +1,4 @@
-# Project: Business Intelligence with tableau
+# Project: Data Analytics with Tableau
 
 ### FINDING THE SOURCE
 
